@@ -1,0 +1,2 @@
+#!/bin/sh
+java -Djava.library.path="/opt/visualboyadvancelink/lib/" -jar /opt/visualboyadvancelink/bin/vbal.jar

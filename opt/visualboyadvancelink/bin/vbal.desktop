@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VisualBoyAdvance Link
+Comment=GBA Emulator
+Exec=java -Djava.library.path="/opt/visualboyadvancelink/lib/" -jar /opt/visualboyadvancelink/bin/vbal.jar
+Icon=/opt/visualboyadvancelink/icon/vbal.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Game;

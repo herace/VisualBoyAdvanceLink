@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/home/jaime/eclipse-workspace/VisualBoyAdvance_Link/src/lib/sdljava.jar" sourcepath="src/lib">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="VisualBoyAdvance_Link/src/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.osgi_3.7.1.R37x_v20110808-1106.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.osgi.source_3.7.1.R37x_v20110808-1106.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.core.commands_3.6.0.I20110111-0800.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.core.commands.source_3.6.0.I20110111-0800.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.equinox.common_3.6.0.v20110523.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.equinox.common.source_3.6.0.v20110523.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.equinox.registry.source_3.5.101.R37x_v20110810-1611.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.core.runtime_3.7.0.v20110110.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.core.runtime.source_3.7.0.v20110110.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.text_3.5.101.r371_v20110810-0800.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.text.source_3.5.101.r371_v20110810-0800.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_3.7.1.v3738a.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.swt.gtk.linux.x86.source_3.7.1.v3738a.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.jface_3.7.0.I20110522-1430.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.jface.source_3.7.0.I20110522-1430.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.jface.text_3.7.1.r371_v20110825-0800.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.jface.text.source_3.7.1.r371_v20110825-0800.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.ui.workbench_3.7.0.I20110519-0100.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.ui.workbench.source_3.7.0.I20110519-0100.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/com.ibm.icu_4.4.2.v20110208.jar" sourcepath="/opt/eclipse/plugins/com.ibm.icu.source_4.4.2.v20110208.jar"/>
+	<classpathentry exported="true" kind="lib" path="/opt/eclipse/plugins/org.eclipse.ui.forms_3.5.100.v20110425.jar" sourcepath="/opt/eclipse/plugins/org.eclipse.ui.forms.source_3.5.100.v20110425.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
